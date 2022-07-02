@@ -1,0 +1,24 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 2px;
+  }
+  tr {
+    height: 50px;
+    border-top: 1px solid rgb(148, 148, 148);
+  }
+  tr:last-child {
+    border-bottom: 1px solid rgb(148, 148, 148);
+  }
+  .table-header {
+    background-color: rgb(236, 236, 236);
+  }
+  .data-field th {
+    padding: 0.5em;
+  }
+  .data-field {
+    padding: 0.3em;
+    text-align: left;
+    /* border-spacing: 0 50px; */
+  }
+  
