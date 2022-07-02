@@ -1,0 +1,19 @@
+.search-box {
+    border: none;
+    width: 90%;
+    padding: 0.3em;
+  }
+  .search-box:focus {
+    outline: none;
+  }
+  .search-box-div {
+    border: 1px solid #000;
+    width: 30%;
+    height: 30px;
+    background-color: burlywood;
+    display: flex;
+  }
+  .search-box-div button {
+    width: 10%;
+  }
+  

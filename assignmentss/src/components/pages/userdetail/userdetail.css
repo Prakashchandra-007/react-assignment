@@ -1,0 +1,25 @@
+.userdetail{
+    width: 90%;
+    height:100vh;
+    background-color:#fff;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding:2em
+}
+.items-userInfo{
+    padding: 0.3em;
+    width: 100%;
+    color:rgb(49, 49, 49);
+    border-bottom : 1px solid rgb(192, 192, 192)
+}
+.deatils_Header{
+    padding: 0.3em;
+    margin-bottom: 2rem;
+    align-self: flex-start;
+    display: flex;
+    width: 100%;
+    align-items: center;
+
+}
